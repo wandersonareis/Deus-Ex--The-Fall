@@ -1,0 +1,14 @@
+{
+  "name": "stringtable01",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.4.0"
+  }
+}
