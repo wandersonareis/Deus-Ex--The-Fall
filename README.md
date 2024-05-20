@@ -1,7 +1,7 @@
 # 
 # Android XML Translator
 
-This project is a simple script that takes an original XML file and a translated XML file, and generates a new XML file with the original data replaced by the translated data.
+This project Deus Ex: The Fall is a simple script that takes an original XML file and a translated XML file, and generates a new XML file with the original data replaced by the translated data.
 
 ## Usage
 
